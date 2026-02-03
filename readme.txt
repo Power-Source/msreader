@@ -3,7 +3,7 @@ Contributors: DerN3rd (PSOURCE)
 Tags: multisite, reader, content, feed
 Requires at least: 4.9
 Tested up to: 6.4.3
-Stable tag: 1.3.6
+Stable tag: 1.0.0
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -24,43 +24,6 @@ Multiste-Reader funktioniert nur in einem Multisite-Netzwerk und benötigt unser
 
 == ChangeLog ==
 
-= 1.3.7 =
+= 1.0.0 =
 
-* Fix: Creation of dynamic property
-* Fix: .fn.scroll() event
-
-= 1.3.6 =
-
-* Optimiert: Texte
-* Fix: Deprecated Dynamic Propertys
-* Links aktualisiert
-* Updater 1.3
-
-= 1.3.5 =
-
-* Fix: Fatal PhP Error in Follow-List
-* Fix: Veraltetes jQuery
-* Optimiert: Texte
-
-= 1.3.4 =
-
-* Textanpassungen
-* Hilfelinks aktualisiert
-* Add: it_IT, en_US, 
-
-= 1.3.3 =
-
-* Fix: Optional Parameter follow
-* Text-Overhaul
-
-= 1.3.2 =
-
-* PhP8 Fixes
-
-= 1.3.1 =
-
-* Veröffentlicht auf Piestingtal-Source
-* Neue Readme
-* Textanpassungen
-* PSOURCE Updater Integriert
-* Fix: PHP Deprecated:  Required parameter
+* Release
