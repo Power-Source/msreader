@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Multiste-Reader
-Plugin URI: https://power-source.github.io/ps-postindexer/
+Plugin URI: https://power-source.github.io/msreader/
 Description: Netzwerkweiter Reader, mit dem Benutzer Beiträge im Netzwerk durchsuchen können, benötigt das Multisite Index-Plugin.
 Version: 1.0.0
 Network: true

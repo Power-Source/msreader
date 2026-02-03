@@ -8,7 +8,7 @@ title: "Multiste-Reader"
 <div class="menu"> 
   <a href="https://github.com/Power-Source/msreader/discussions" style="color:#38c2bb;">💬 Forum</a> 
   <a href="https://github.com/Power-Source/msreader/releases" style="color:#38c2bb;">📝 Download</a>
-  <a href="https://cp-psource.github.io/ps-postindexer/" style="color:#ff0000;">📖 ! BENÖTIGT MULTISITE-INDEX !</a>
+  <a href="https://power-source.github.io/ps-postindexer/" style="color:#ff0000;">📖 ! BENÖTIGT MULTISITE-INDEX !</a>
 </div>
 
 **Netzwerkweiter Reader, mit dem Benutzer Beiträge im Netzwerk durchsuchen können.**
